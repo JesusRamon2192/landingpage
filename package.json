@@ -1,0 +1,20 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "description": "En este proyecto desarrollaremos la interfaz de una landing page con el uso de API para bajar informacion de alguna pagina como youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusRamon2192/landingpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesusRamon2192/landingpage/issues"
+  },
+  "homepage": "https://github.com/JesusRamon2192/landingpage#readme"
+}
